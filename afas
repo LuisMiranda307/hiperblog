@@ -1,0 +1,20 @@
+[33mcommit 70ba3f4e3f7052e5be22822d3ee24efcef6e9ff9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Luis Miranda <luismiranda20004@gmail.com>
+Date:   Sun Oct 3 17:29:22 2021 -0500
+
+    agregamos el cambio
+
+[1mdiff --git a/Historia.txt b/Historia.txt[m
+[1mindex 092f445..e9da937 100644[m
+[1m--- a/Historia.txt[m
+[1m+++ b/Historia.txt[m
+[36m@@ -5,4 +5,6 @@[m [mTengo 18 años y naci en Perú[m
+ hoy kks[m
+ La estatura es 15 metros[m
+ [m
+[31m-hoy es el ceo de[m
+\ No newline at end of file[m
+[32m+[m[32mhoy es el ceo de[m
+[32m+[m
+[32m+[m[32mpapapapapadsdada[m
+\ No newline at end of file[m
